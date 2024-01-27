@@ -74,8 +74,8 @@ Feel free to explore the various features of the application and provide feedbac
   <summary>Login</summary>
 
   <div style="display: flex;gap:10px; padding:5px 0;">
-    <img src="screenshots/login-dark.png" alt="Light Mode" width="400">
     <img src="screenshots/login-light.png" alt="Dark Mode" width="400">
+    <img src="screenshots/login-dark.png" alt="Light Mode" width="400">
   </div>
 </details>
 
@@ -90,8 +90,10 @@ Feel free to explore the various features of the application and provide feedbac
 
  ##### And Many More...
 
+## Same project in other frameworks
+[Next.js (v14)](https://github.com/emrullaher/nextjs-tailwind-ecommerce)
+
 
 ## License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 

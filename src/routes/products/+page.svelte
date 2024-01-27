@@ -146,7 +146,7 @@
 <div class="container grid grid-cols-2 items-start gap-6 pb-16 pt-4 md:grid-cols-4">
 	<div class="text-center md:hidden">
 		<button
-			class="mb-2 mr-2 block rounded-lg px-5 py-2.5 text-sm font-medium text-white hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 md:hidden"
+			class="mb-2 mr-2 block rounded-lg px-5 py-2.5 text-sm font-medium text-white hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 bg-blue-600 hover:bg-blue-700 focus:ring-blue-800 md:hidden"
 			type="button"
 			data-drawer-target="drawer-example"
 			data-drawer-show="drawer-example"
